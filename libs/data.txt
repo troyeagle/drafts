@@ -1,0 +1,23 @@
+少年
+STR 75  INT 60
+CON 80  POW 30
+SIZ 50  DEX 85
+MOV 8
+
+
+夏塔克鸟
+STR 170 INT 20
+CON 85  POW 50
+SIZ 250 DEX 50
+MOV 30（fly）
+DB 4d5
+咬，55%，2d6+2
+
+SC 1/1d6
+
+周锦鑫（狂化）
+STR 65 INT 80
+CON 80 POW 80
+SIZ 65 DEX 70
+
+
